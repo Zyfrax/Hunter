@@ -1,0 +1,6 @@
+{
+  "name": "Учёт контрагентов и задач",
+  "description": "Локальное приложение для управления контрагентами, платежами, статусами счетов и регулярными задачами с контролем дедлайнов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
